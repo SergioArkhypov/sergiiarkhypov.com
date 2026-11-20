@@ -18,6 +18,11 @@
     text-align: left;
 }
 
+.profile .profile_inner img {
+  margin-left: auto;       /* pushes image to the left */
+  margin-right: 0;   /* swap 0 and auto to push it to the right */
+}
+
 .profile .profile_inner h1 {
     font-size: 2.5rem;
 }
