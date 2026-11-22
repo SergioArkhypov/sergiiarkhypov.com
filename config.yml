@@ -25,12 +25,12 @@ menu:
           url: data/
           weight: 4 
         - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+          url: https://en.wikipedia.org/wiki/Sergii_Arkhypov
           weight: 6
 
 params:
-    description: "This website hosts Moritz-Maria von Igelfeld's research papers, books, course materials, data, curriculum vitae, and contact information."
-    author: Moritz-Maria von Igelfeld
+    description: "This website hosts Sergii Arkhypov's research papers, data, curriculum vitae, and contact information."
+    author: Sergii Arkhypov 
     # googleAnalyticsID: G-XXXXX
     DateFormat: January 2006
     defaultTheme: dark
@@ -55,7 +55,7 @@ params:
     profileMode:
           enabled: true
           title: Sergii Arkhypov
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
+          subtitle: "Sergii Arkhypov began his career as an ALM Analyst at Erste Bank, managing banking book risks, before moving into trading system development and integration across several financial institutions. He subsequently served as a Desk Quant for equity exotic derivatives and structured products at Credit Suisse, and later as a Manager and Quantitative Developer at EY, leading counterparty credit risk and regulatory change programs. Following a role as a Cross-Product Quantitative Analyst at BNP Paribas, Sergii moved into Valuation Model Risk, where he currently focuses on pricing model validation across IRFX and Credit perimeters. He holds a Master’s degree in Applied Mathematics from Kyiv Polytechnic Institute, a Master’s degree in Data Analytics and AI from Birkbeck, University of London, and an advanced certification in risk management (FRM)."
           imageUrl: picture.jpeg
           imageWidth: 320
           imageHeight: 320
@@ -73,7 +73,7 @@ params:
             - name: Archive
               url: archive/
             - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+              url: https://en.wikipedia.org/wiki/Sergii_Arkhypov
 
     socialIcons:
         - name: CV
@@ -105,7 +105,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: Moritz-Maria von Igelfeld
+      text: Sergii Arkhypov
       icon: favicon.ico
       iconHeight: 18
 
